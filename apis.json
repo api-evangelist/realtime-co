@@ -1,0 +1,59 @@
+{
+    "name": "Realtime.co",
+    "description": "<p>Realtime Messaging is a cloud based message broker. Enabling developers to build cross-platform apps that require realtime communication between devices.&nbsp; Spend time building your app not managing infrastructure.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2182-realtime-co.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/realtime-co\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Realtime.co",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2182-realtime-co.jpg",
+            "humanURL": "http:\/\/www.realtime.co\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/realtime-co-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/realtime-co"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/realtime-co"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/RTWWorld"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/framework.realtime.co\/messaging\/#pricing"
+        },
+        {
+            "type": "Support",
+            "url": "http:\/\/support.realtime.co\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/RTWworld"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.realtime.co\/"
+        }
+    ]
+}
